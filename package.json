@@ -1,0 +1,32 @@
+{
+  "name": "pt-adhikasi-inovasi-indonesia",
+  "version": "1.0.0",
+  "description": "TakeHomeTest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cell2116/TakeHomeTest.git"
+  },
+  "keywords": [
+    "node",
+    "file",
+    "upload",
+    "utility",
+    "takehometest"
+  ],
+  "author": "Marcello Octavyo Anugrahanto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cell2116/TakeHomeTest/issues"
+  },
+  "homepage": "https://github.com/Cell2116/TakeHomeTest#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
